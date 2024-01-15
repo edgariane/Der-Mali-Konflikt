@@ -85,8 +85,8 @@
         Die internationale Gemeinschaft, darunter Frankreich und die Vereinten Nationen, hat Maßnahmen
         ergriffen, um AQMI zu bekämpfen und die Sicherheit in der Region wiederherzustellen.
     </p>
-            <a href="https://www.example.com">
-    <img src="bild.jpg" alt="Beschreibung des Bildes">
+            <a href="751188_original.jpg">
+    <img src="751188_original.jpg" alt="Mali">
             <br><h2>Mujao in Mali</h2><br>
     <p>
     Die Bewegung für Einheit und Dschihad in Westafrika (Mujao) ist eine islamistische Gruppierung, die im Zusammenhang mit dem Mali-Konflikt steht. Sie entstand während der Tuareg-Rebellion in Nordmali und ist für ihre Verbindungen zu al-Qaida im Islamischen Maghreb (AQIM) bekannt.

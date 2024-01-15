@@ -68,8 +68,10 @@
 </style>
 <section>
         <section id="auswirkungen">
-            <h2>Auswirkungen</h2>
-            <p>Beschreibe die Auswirkungen des Konflikts auf die Bevölkerung, die Region und die Welt.</p>
+            <h2>Insider Infos</h2>
+            <h2><p>Die folgenden Infos sind von Soldaten der Bundeswehr und Soldaten der Fremdenlegion.</p></h2><br>
+            <a<h3><p>Infos über die Feind - Freundkräfte im Mali Konflikt</p></h3><br></a>
+            <
         </section>
         <section id="quellen">
             <h2>Quellen</h2>

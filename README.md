@@ -84,7 +84,21 @@
     <p>
         Die internationale Gemeinschaft, darunter Frankreich und die Vereinten Nationen, hat Maßnahmen
         ergriffen, um AQMI zu bekämpfen und die Sicherheit in der Region wiederherzustellen.
-    </p>
+    </p><br>
+            <h2>MUJAO</h2><br>
+            <h1>Mujao in Mali</h1>
+
+  <p>
+    Die Bewegung für Einheit und Dschihad in Westafrika (Mujao) ist eine islamistische Gruppierung, die im Zusammenhang mit dem Mali-Konflikt steht. Sie entstand während der Tuareg-Rebellion in Nordmali und ist für ihre Verbindungen zu al-Qaida im Islamischen Maghreb (AQIM) bekannt.
+  </p>
+
+  <p>
+    Mujao hat sich an verschiedenen terroristischen Aktivitäten beteiligt und versucht, die politische Landschaft in der Sahel-Region zu beeinflussen. Die Gruppe strebt die Errichtung eines islamischen Staates in der Region an und hat sich gegen ausländische Interventionen, insbesondere die von Frankreich angeführte Operation Serval, ausgesprochen.
+  </p>
+
+  <p>
+    Die Präsenz von Mujao und anderer extremistischer Gruppen hat zu erheblicher Instabilität in Mali geführt und stellt eine Bedrohung für die Sicherheit in der gesamten Sahelzone dar. Internationale Bemühungen, insbesondere durch die Vereinten Nationen und regionale Akteure, zielen darauf ab, den Konflikt zu lösen und die Stabilität in der Region wiederherzustellen.
+  </p>
         </section>
         <section id="quellen">
             <h2>Quellen</h2>

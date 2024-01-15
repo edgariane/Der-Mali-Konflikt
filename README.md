@@ -69,9 +69,22 @@
 <section>
         <section id="auswirkungen">
             <br><h2>Insider Infos</h2>
-            <h3><p>Die folgenden Infos sind von Soldaten der Bundeswehr und Soldaten der Fremdenlegion.</p></h3><br>
-            <h3> Infos Über Feind - Freundkräfte im Mali Konflikt</h3><br>
-            <h3>AQMI (bzw. AI-Qaida im Maghreb)</h3>
+            <h3><p>Die folgenden Infos sind von Soldaten der Bundeswehr und Soldaten der Fremdenlegion.</p></h3>
+            <h3>Al-Qaida im Islamischen Maghreb (AQMI)</h3>
+    <p>
+        Al-Qaida im Islamischen Maghreb (AQMI) ist eine islamistische extremistische Gruppierung,
+        die im nordafrikanischen Maghreb und Sahel-Gebiet aktiv ist. Sie entstand aus der algerischen
+        Gruppierung Groupe Salafiste pour la Prédication et le Combat (GSPC) und schwor 2007 Al-Qaida die Treue.
+    </p>
+    <p>
+        AQMI ist bekannt für ihre Aktivitäten wie Entführungen, Sprengstoffanschläge und den Schmuggel
+        von Waffen in der Region. Die Gruppe hat Verbindungen zu anderen Al-Qaida-Zweigen und spielt
+        eine bedeutende Rolle in der Instabilität in Mali und den umliegenden Gebieten.
+    </p>
+    <p>
+        Die internationale Gemeinschaft, darunter Frankreich und die Vereinten Nationen, hat Maßnahmen
+        ergriffen, um AQMI zu bekämpfen und die Sicherheit in der Region wiederherzustellen.
+    </p>
         </section>
         <section id="quellen">
             <h2>Quellen</h2>

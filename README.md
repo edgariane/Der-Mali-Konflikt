@@ -69,7 +69,7 @@
 <section>
         <section id="auswirkungen">
             <br><h2>Insider Infos</h2>
-            <h3><p>Die folgenden Infos sind von Soldaten der Bundeswehr und Soldaten der Fremdenlegion.</p></h3>
+            <h2><p>Die folgenden Infos sind von Soldaten der Bundeswehr und Soldaten der Fremdenlegion.</p></h2>
             <h3>Al-Qaida im Islamischen Maghreb (AQMI)</h3>
     <p>
         Al-Qaida im Islamischen Maghreb (AQMI) ist eine islamistische extremistische Gruppierung,
@@ -85,6 +85,8 @@
         Die internationale Gemeinschaft, darunter Frankreich und die Vereinten Nationen, hat Maßnahmen
         ergriffen, um AQMI zu bekämpfen und die Sicherheit in der Region wiederherzustellen.
     </p>
+            <a href="https://www.example.com">
+    <img src="bild.jpg" alt="Beschreibung des Bildes">
             <br><h2>Mujao in Mali</h2><br>
     <p>
     Die Bewegung für Einheit und Dschihad in Westafrika (Mujao) ist eine islamistische Gruppierung, die im Zusammenhang mit dem Mali-Konflikt steht. Sie entstand während der Tuareg-Rebellion in Nordmali und ist für ihre Verbindungen zu al-Qaida im Islamischen Maghreb (AQIM) bekannt.

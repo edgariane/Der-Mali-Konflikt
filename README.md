@@ -68,10 +68,10 @@
 </style>
 <section>
         <section id="auswirkungen">
-            <h2>Insider Infos</h2>
-            <h2><p>Die folgenden Infos sind von Soldaten der Bundeswehr und Soldaten der Fremdenlegion.</p></h2><br>
-            <a<h3><p>Infos über die Feind - Freundkräfte im Mali Konflikt</p></h3><br></a>
-            <
+            <br><h2>Insider Infos</h2>
+            <h3><p>Die folgenden Infos sind von Soldaten der Bundeswehr und Soldaten der Fremdenlegion.</p></h3><br>
+            <h3> Infos Über Feind - Freundkräfte im Mali Konflikt</h3><br>
+            <h3>AQMI (bzw. AI-Qaida im Maghreb)</h3>
         </section>
         <section id="quellen">
             <h2>Quellen</h2>
